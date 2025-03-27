@@ -1,14 +1,13 @@
 # Data-Driven Climate Forecasting
 
 ## Contributors
-- Esteban Guerrero - Zhihao Xu 
-- Rebecca Jones - Chenyu Ma
+- Esteban Guerrero
+- Zhihao Xu
+- Rebecca Jones
+- Chenyu Ma
 
 ## Project Overview
 This project explores and predicts temperature changes from 2000 to 2080 using a combination of exploratory data analysis (EDA), preprocessing, and machine learning models. We analyze various climate projections to understand trends, patterns, and potential future changes in temperature.
-
-## Presentation
-https://docs.google.com/presentation/d/1pSRMX2lFIvA6DZj1SmAwuPv-CnYbqUPT6mUSI6Ty9oM/edit?usp=sharing
 
 ## Research Questions
 - How do different climate variables behave across various climate projections?
