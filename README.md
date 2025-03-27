@@ -58,7 +58,3 @@ conda activate climate_forecasting
 - Rebecca Jones
 - Chenyu Ma
 
-
-## License
-This project is licensed under the MIT License.
-
